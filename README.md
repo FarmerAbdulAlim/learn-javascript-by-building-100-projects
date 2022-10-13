@@ -70,11 +70,11 @@ This is a very simple project which display digital clock and get the current ti
 
 _Click the image to view Live Project_
 
-[![Digital Clock](./01-digital-clock/images/01-digital-clock.png)]()
+[![Digital Clock](./01-digital-clock/images/01-digital-clock.png)](https://digital-clock-rose-mu.vercel.app/)
 
 ### Live Project Link
 
-[Live Project Link](https://responsive-image-grid.vercel.app/)
+[Live Project Link](https://digital-clock-rose-mu.vercel.app/)
 
 ### Video Explanation
 
@@ -82,6 +82,6 @@ Coming Soon...
 
 ### Project Source Codes
 
-[Project Source Codes](./01-responsive-image-grid/)
+[Project Source Codes](./01-digital-clock/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
