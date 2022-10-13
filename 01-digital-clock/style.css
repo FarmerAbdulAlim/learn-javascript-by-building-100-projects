@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  background-image: url(images/nature.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 10px 0px;
+}
+.clock {
+  display: flex;
+}
+.clock div {
+  margin: 5px;
+  position: relative;
+}
+.clock span {
+  width: 100px;
+  height: 80px;
+  background-color: #022a30;
+  opacity: 0.8;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  box-shadow: 2px 2px 10px 5px rgba(2, 42, 48, 0.753);
+  border-radius: 4px;
+}
+.clock .text {
+  height: 30px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: darkslategray;
+  opacity: 0.8;
+}
+.clock #ampm {
+  position: absolute;
+  bottom: 0px;
+  width: 60px;
+  height: 30px;
+  font-size: 20px;
+  background-color: darkblue;
+}
