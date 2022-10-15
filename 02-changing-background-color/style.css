@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #34495e;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
+
+.btn {
+  background-color: darkblue;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: brown;
+}
