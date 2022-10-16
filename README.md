@@ -6,7 +6,7 @@
 |                         [02](#02-changing-background-color)                          |                                   [Changing Background Color](#02-changing-background-color)                                    |     Watch Now     |                     [Live Demo](https://chaning-bg-color-rgb.vercel.app/)                     |
 |                 [03](#03-changing-background-color-with-copy-color)                  |                     [Changing Background Color and Copy It](#03-changing-background-color-with-copy-color)                      |     Watch Now     |                [Live Demo](https://changing-bg-color-and-copy-it.vercel.app/)                 |
 | [04](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) | [Changing Background Color and Copy That Color](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) |     Watch Now     | [Live Demo](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/) |
-|                                          05                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
+|                      [05](#05-neumorphism-custom-range-slider)                       |                             [Neumorphism Custom Range Slider](#05-neumorphism-custom-range-slider)                              |     Watch Now     |              [Live Demo](https://custom-range-slider.travelerabdulalim.repl.co/)              |
 |                                          06                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          07                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          08                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
@@ -217,23 +217,25 @@ Coming Soon...
 
 ### You Will Learn
 
--
+- CSS Webkit ব্যবহার করে কিভাবে একটি Custom Range Slider তৈরি করা যায় ।
 
 ### Project Description
 
+সহজ একটি প্রজেক্ট । এই প্রজেক্টে একটি সুন্দর Custom Range Slider তৈরি করা হয়েছে।
+
 ### Project Requirements
 
--
+- একটি Custom Range Slider তৈরি করতে হবে CSS Webkit ব্যবহার করে অর্থাৎ HTML এ by default যে Slide Range দেয়া থাকে সেটা বাদ দিয়ে আমরা নিজেদের একটা Slide Range বানাতে হবে।
 
 ### Project Screenshot
 
 _Click the image to view Live Project_
 
-[![Changing Background Color and Hex Copy](./04-changing-bg-color-and-copy-it-and-input-color/images/bg.png)](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/)
+[![Custom Range Slider](./05-neumorphism-custom-range-slider/images/slider.png)](https://custom-range-slider.travelerabdulalim.repl.co/)
 
 ### Live Project Link
 
-[Live Project Link](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/)
+[Live Project Link](https://custom-range-slider.travelerabdulalim.repl.co/)
 
 ### Video Explanation
 
@@ -241,6 +243,6 @@ Coming Soon...
 
 ### Project Source Codes
 
-[Project Source Codes](./04-changing-bg-color-and-copy-it-and-input-color/)
+[Project Source Codes](./05-neumorphism-custom-range-slider/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
