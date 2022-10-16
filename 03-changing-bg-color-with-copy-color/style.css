@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #34495e;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #1dd4ad;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(42, 165, 69);
+}
+
+.copy {
+  background-color: #23cfcf;
+  border: none;
+  outline: none;
+  padding: 0px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  left: 30px;
+}
+.copy:hover {
+  background-color: beige;
+}
+
+.copy-section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+textarea {
+  position: relative;
+  left: 25px;
+  border-radius: 6px;
+}
+
+.toast-message {
+  position: fixed;
+  z-index: 99;
+  top: 2rem;
+  right: 2rem;
+  background-color: greenyellow;
+  box-shadow: 2px 2px 3px black;
+  color: black;
+  border-radius: 5px;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.toast-in {
+  animation-name: toast-in;
+  animation-duration: 0.5s;
+}
+.toast-out {
+  animation-name: toast-out;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes toast-in {
+  0% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes toast-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+}

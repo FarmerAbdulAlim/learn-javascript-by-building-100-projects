@@ -68,7 +68,7 @@ This is a very simple project which display digital clock and get the current ti
 
 ### Project Requirements
 
-1. একটা Simple Digital Clock দেখাবে , যেটা Local Time অনুযায়ী চলতে থাকবে।
+- একটা Simple Digital Clock দেখাবে , যেটা Local Time অনুযায়ী চলতে থাকবে।
 
 ### Project Screenshot
 
@@ -104,17 +104,17 @@ Coming Soon...
 
 ### Project Requirements
 
-1. 'Change Background' নামে একটা Button থাকবে, যেটা Click করলে Background Color Randomly পরিবর্তন হয়ে যাবে।
+- 'Change Background' নামে একটা Button থাকবে, যেটা Click করলে Background Color Randomly পরিবর্তন হয়ে যাবে।
 
 ### Project Screenshot
 
 _Click the image to view Live Project_
 
-[![Changing Background Color](./02-changing-background-color/images/bg-color.png)]()
+[![Changing Background Color](./02-changing-background-color/images/bg-color.png)](https://chaning-bg-color-rgb.vercel.app/)
 
 ### Live Project Link
 
-[Live Project Link](https://digital-clock-rose-mu.vercel.app/)
+[Live Project Link](https://chaning-bg-color-rgb.vercel.app/)
 
 ### Video Explanation
 
@@ -122,6 +122,44 @@ Coming Soon...
 
 ### Project Source Codes
 
-[Project Source Codes](./01-digital-clock/)
+[Project Source Codes](./02-changing-background-color/)
+
+[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+
+# 03. Changing Background Color with Copy Color
+
+### Difficulty: Easy(1/10)
+
+### You Will Learn
+
+- কিভাবে JavaScript এর DOM Concept নিয়ে কাজ করা যায়।
+
+### Project Description
+
+খুব সাধারন একটি প্রজেক্ট । একটি Button থাকবে যেটা Click করলে Background Color পরিবর্তন হয়ে যাবে। এই Background Color এর Hex Code টা User চাইলে Copy করতে পারবেন।
+
+### Project Requirements
+
+- 'Change Background' নামে একটা Button থাকবে, যেটা Click করলে Background Color Randomly পরিবর্তন হয়ে যাবে।
+- যে Background Color টা তৈরি হবে, তার Hex Code টা Display হবে এবং ঐ Hex Code টা User চাইলে Copy করতে পারবে।
+- Copy Button এ Click করলে "#ABCDE Copied!" এরকম একটা Toast Mesage দেখাবে।
+
+### Project Screenshot
+
+_Click the image to view Live Project_
+
+[![Changing Background Color and Hex Copy](./03-changing-bg-color-with-copy-color/images/bg-change-hex-copy.png)](https://chaning-bg-color-rgb.vercel.app/)
+
+### Live Project Link
+
+[Live Project Link](https://chaning-bg-color-rgb.vercel.app/)
+
+### Video Explanation
+
+Coming Soon...
+
+### Project Source Codes
+
+[Project Source Codes](./02-changing-background-color/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
