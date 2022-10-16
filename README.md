@@ -231,7 +231,7 @@ Coming Soon...
 
 _Click the image to view Live Project_
 
-[![Custom Range Slider](./05-neumorphism-custom-range-slider/images/slider.png)](https://custom-range-slider.travelerabdulalim.repl.co/)
+[![Custom Range Slider](./05-neumorphism-custom-range-slider/images/slider1.png)](https://custom-range-slider.travelerabdulalim.repl.co/)
 
 ### Live Project Link
 
