@@ -19,6 +19,7 @@ btn.addEventListener("click", function () {
 });
 
 copy.addEventListener("click", function () {
+  navigator.clipboard.writeText(bgColor);
   const div = document.createElement("div");
   div.className = "toast-message toast-in";
   document.body.appendChild(div);

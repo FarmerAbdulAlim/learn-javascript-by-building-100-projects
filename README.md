@@ -143,6 +143,53 @@ Coming Soon...
 - 'Change Background' নামে একটা Button থাকবে, যেটা Click করলে Background Color Randomly পরিবর্তন হয়ে যাবে।
 - যে Background Color টা তৈরি হবে, তার Hex Code টা Display হবে এবং ঐ Hex Code টা User চাইলে Copy করতে পারবে।
 - Copy Button এ Click করলে "#ABCDE Copied!" এরকম একটা Toast Mesage দেখাবে।
+- Toast Message এ Click করলে Toast Message টি Disappeared বা Removed হয়ে যাবে। সাথে সাথে যে Div Element এ Toast Message টা Show করা হয়েছিলো, সেই Div Element টাও Delete করে দিতে হবে।
+
+### Project Screenshot
+
+_Click the image to view Live Project_
+
+[![Changing Background Color and Hex Copy](./03-changing-bg-color-with-copy-color/images/bg-change-hex-copy.png)](https://changing-bg-color-and-copy-it.vercel.app/)
+
+### Live Project Link
+
+[Live Project Link](https://changing-bg-color-and-copy-it.vercel.app/)
+
+### Video Explanation
+
+Coming Soon...
+
+### Project Source Codes
+
+[Project Source Codes](./03-changing-bg-color-with-copy-color/)
+
+[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+
+# 04. Changing Background Color and Copy That Color With Some Extra Requirements
+
+### Difficulty: Easy(2/10)
+
+### You Will Learn
+
+- কিভাবে JavaScript এর DOM Concept নিয়ে কাজ করা যায়।
+- কিভাবে JavaScript এ Event Handler নিয়ে কাজ করতে হয়।
+- কিভাবে একটা Project এর Requirements ধীরে ধীরে বৃদ্ধি করে Project টি আরও User-friendly করতে হয়।
+- কিভাবে JavaScript এ কোন একটা Element তৈরি বা Delete করা যায়।
+- কিভাবে JavaScript হতে HTML Element এর CSS Change করা যায়।
+- কিভাবে JavaScript হতে কোন একটা Element এর Class তৈরি করা যায়।
+
+### Project Description
+
+খুব সাধারন একটি প্রজেক্ট । 'Change Background' নামে একটি Button থাকবে যেটা Click করলে Background Color পরিবর্তন হয়ে যাবে। Copy নামে একটি Button এ Click করে এই Background Color এর Hex Code টা User চাইলে Copy করতে পারবেন। সেই Copy করা Code টা Toast Message এ Display হবে। Toast Message এ Click করলে Toast Message টি Disappeared বা Removed হয়ে যাবে । User চাইলে নিজেও Hex Code Input করতে পারবে, যদি সেই Hex Code টা Valid হয়, তাহলে Background Change হয়ে যাবে ঐ Color Code অনুযায়ী। একইভাবে, যে Hex Code টা Display তে আছে, ওটা যদি Valid হয়, তাহলে Copy Button এ ক্লিক করলে Hex Code টি Copy হবে, অন্যথায় হবে না।
+
+### Project Requirements
+
+- 'Change Background' নামে একটা Button থাকবে, যেটা Click করলে Background Color Randomly পরিবর্তন হয়ে যাবে।
+- যে Background Color টা তৈরি হবে, তার Hex Code টা Display হবে এবং ঐ Hex Code টা User চাইলে Copy করতে পারবে।
+- Copy Button এ Click করলে "#ABCDE Copied!" এরকম একটা Toast Mesage দেখাবে।
+- Toast Message এ Click করলে Toast Message টি Disappeared বা Removed হয়ে যাবে। সাথে সাথে যে Div Element এ Toast Message টা Show করা হয়েছিলো, সেই Div Element টাও Delete করে দিতে হবে।
+- User চাইলে নিজেও Hex Code Input করতে পারবে, যদি সেই Hex Code টা Valid হয়, তাহলে Background Change হয়ে যাবে ঐ Color Code অনুযায়ী।
+- যে Hex Code টা Display তে আছে, ওটা যদি Valid হয়, তাহলে Copy Button এ ক্লিক করলে Hex Code টি Copy হবে, অন্যথায় হবে না। সেক্ষেত্রে Alert এ `Invalid Color Code` নামে একটা Message Show হবে।
 
 ### Project Screenshot
 
