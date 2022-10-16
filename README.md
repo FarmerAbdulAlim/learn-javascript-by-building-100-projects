@@ -195,11 +195,11 @@ Coming Soon...
 
 _Click the image to view Live Project_
 
-[![Changing Background Color and Hex Copy](./03-changing-bg-color-with-copy-color/images/bg-change-hex-copy.png)](https://changing-bg-color-and-copy-it.vercel.app/)
+[![Changing Background Color and Hex Copy](./04-changing-bg-color-and-copy-it-and-input-color/images/bg.png)](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/)
 
 ### Live Project Link
 
-[Live Project Link](https://changing-bg-color-and-copy-it.vercel.app/)
+[Live Project Link](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/)
 
 ### Video Explanation
 
@@ -207,6 +207,6 @@ Coming Soon...
 
 ### Project Source Codes
 
-[Project Source Codes](./03-changing-bg-color-with-copy-color/)
+[Project Source Codes](./04-changing-bg-color-and-copy-it-and-input-color/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
