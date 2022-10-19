@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.container {
+  max-width: 1000px;
+  min-height: 70vh;
+  background-color: white;
+  margin: 100px auto;
+}
+.rearrange {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.rearrange-without-border {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+button {
+  padding: 7px 10px;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: lightpink;
+  color: black;
+  box-shadow: 2px 2px 4px lightgray, -2px -2px 4px lightgray;
+}
+.color-container {
+  width: 90%;
+  height: 250px;
+  background-color: green;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+.hex-text {
+  margin-right: 5px;
+}
+.hex-rgb-code-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  margin: 0 20px;
+}
+.bottom-margin {
+  margin-bottom: 3px;
+}
+.input-text {
+  width: 250px;
+  height: 25px;
+  border-radius: 3px;
+  font-size: 20px;
+  padding: 3px;
+  font-weight: 500;
+}
+.adjust-color-text {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.rearrange-range-value {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+.range-slider {
+  width: 200px;
+}
+.slide-container {
+  display: flex;
+  justify-content: space-between;
+}
+.red {
+  margin-left: 10px;
+}
+.blue {
+  margin-right: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}

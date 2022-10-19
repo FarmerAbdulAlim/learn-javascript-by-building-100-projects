@@ -7,7 +7,7 @@
 |                 [03](#03-changing-background-color-with-copy-color)                  |                     [Changing Background Color and Copy It](#03-changing-background-color-with-copy-color)                      |     Watch Now     |                [Live Demo](https://changing-bg-color-and-copy-it.vercel.app/)                 |
 | [04](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) | [Changing Background Color and Copy That Color](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) |     Watch Now     | [Live Demo](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/) |
 |                      [05](#05-neumorphism-custom-range-slider)                       |                             [Neumorphism Custom Range Slider](#05-neumorphism-custom-range-slider)                              |     Watch Now     |              [Live Demo](https://custom-range-slider.travelerabdulalim.repl.co/)              |
-|                                          06                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
+|                    [06](#06-color-picker-application-version-01)                     |                         [Color Picker Application Version-01](#06-color-picker-application-version-01)                          |     Watch Now     |               [Live Demo](https://color-picker-v-01.travelerabdulalim.repl.co/)               |
 |                                          07                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          08                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          09                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
@@ -244,5 +244,42 @@ Coming Soon...
 ### Project Source Codes
 
 [Project Source Codes](./05-neumorphism-custom-range-slider/)
+
+[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+
+# 06. Color Picker Application Version-01
+
+### Difficulty: Easy(3/10)
+
+### You Will Learn
+
+- JavaScript DOM এর কিছু Intermediate Concept.
+
+### Project Description
+
+এটি একটি Color Picker Application যেটাতে "Random Color" Button এ Click করলে Randomly Color পরিবর্তন হবে। সেই Color "Display Color" Section এ দেখা যাবে। এই Color চাইলে Hex ও RGB উভয় Format এ Copy করা যাবে "Copy To Clipboard" Button এ ক্লিক করে। এছাড়া Hex Input Field ও RGB Input Field এ Manually Data পরিবর্তন করেও Background Color Change করা যাবে। আবার, 'Adjust RGB Color' এই Section এ Red, Green বা Blue এর Value পরিবর্তন করেও Background Color পরিবর্তন করা যাবে।
+
+### Project Requirements
+
+- "Random Color" নামে একটা Button থাকবে যেটাতে Click করলে Display Color এ Color Change হবে এবং সেই Color Code টা Hex, RGB ও RGB Slider Section এ প্রদর্শিত হবে।
+- "Copy To Clipboard" Button এ Click করলে Color Copy হবে। Hex Color Copy হবে যদি Hex Radio Button টি Select করা থাকে, RGB Radio Button Selected থাকলে RGB Color Copy হবে।
+
+### Project Screenshot
+
+_Click the image to view Live Project_
+
+[![Color Picker Version 1](./06-color-picker-application-v-01/images/color-picker-v-01.png)](https://color-picker-v-01.travelerabdulalim.repl.co/)
+
+### Live Project Link
+
+[Live Project Link](https://color-picker-v-01.travelerabdulalim.repl.co/)
+
+### Video Explanation
+
+Coming Soon...
+
+### Project Source Codes
+
+[Project Source Codes](./06-color-picker-application-v-01/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)

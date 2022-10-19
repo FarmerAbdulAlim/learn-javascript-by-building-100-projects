@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Color Picker Application Version-01</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="up-section">
+        <div class="rearrange">
+          <h3>Display Color</h3>
+          <button id="random-color">Random Color</button>
+        </div>
+        <div class="color-container" id="color-container"></div>
+      </div>
+      <div class="bottom-section">
+        <div class="rearrange">
+          <h3>Change and Copy Color</h3>
+          <button id="copy-to-clipboard">Copy To Clipboard</button>
+        </div>
+        <div class="copy-mode rearrange-without-border">
+          <p class="bold">Select Copy Mode</p>
+          <form action="">
+            <input type="radio" name="radio" id="hex" value="hex" checked />
+            <label for="hex" class="hex-text">Hex</label>
+            <input type="radio" name="radio" id="rgb" value="rgb" />
+            <label for="rgb">RGB</label>
+          </form>
+        </div>
+        <div class="hex-rgb-code-container">
+          <div class="hex-code">
+            <h5 class="bottom-margin">Hex</h5>
+            <input type="text" id="hex-input" class="input-text" />
+          </div>
+          <div class="rgb-code">
+            <h5 class="bottom-margin">RGB</h5>
+            <input type="text" id="rgb-input" class="input-text" />
+          </div>
+        </div>
+        <div class="adjust-color-text">
+          <p class="bold">Adjust RGB Color</p>
+        </div>
+        <div class="slide-container">
+          <div class="red">
+            <div class="rearrange-range-value">
+              <p>Red</p>
+              <p id="red">0</p>
+            </div>
+            <input
+              type="range"
+              name=""
+              min="0"
+              max="255"
+              value="0"
+              class="range-slider"
+              id="red-ranger"
+              onmousemove="redSlider(this.value)"
+            />
+          </div>
+          <div class="green">
+            <div class="rearrange-range-value">
+              <p>Green</p>
+              <p id="green">0</p>
+            </div>
+            <input
+              type="range"
+              name=""
+              min="0"
+              max="255"
+              value="0"
+              class="range-slider"
+              id="green-ranger"
+              onmousemove="greenSlider(this.value)"
+            />
+          </div>
+          <div class="blue">
+            <div class="rearrange-range-value">
+              <p>Blue</p>
+              <p id="blue">0</p>
+            </div>
+            <input
+              type="range"
+              name=""
+              min="0"
+              max="255"
+              value="0"
+              class="range-slider"
+              id="blue-ranger"
+              onmousemove="blueSlider(this.value)"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
