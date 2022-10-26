@@ -8,7 +8,7 @@
 | [04](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) | [Changing Background Color and Copy That Color](#04-changing-background-color-and-copy-that-color-with-some-extra-requirements) |     Watch Now     | [Live Demo](https://changing-background-color-and-copy-that-color.travelerabdulalim.repl.co/) |
 |                      [05](#05-neumorphism-custom-range-slider)                       |                             [Neumorphism Custom Range Slider](#05-neumorphism-custom-range-slider)                              |     Watch Now     |              [Live Demo](https://custom-range-slider.travelerabdulalim.repl.co/)              |
 |                    [06](#06-color-picker-application-version-01)                     |                         [Color Picker Application Version-01](#06-color-picker-application-version-01)                          |     Watch Now     |               [Live Demo](https://color-picker-v-01.travelerabdulalim.repl.co/)               |
-|                                          07                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
+|                           [07](#07-random-quote-generator)                           |                                      [Random Quote Generator](#07-random-quote-generator)                                       |     Watch Now     |            [Live Demo](https://random-quote-generator.travelerabdulalim.repl.co/)             |
 |                                          08                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          09                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          10                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
@@ -281,5 +281,42 @@ Coming Soon...
 ### Project Source Codes
 
 [Project Source Codes](./06-color-picker-application-v-01/)
+
+[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+
+# 07. Random Quote Generator
+
+### Difficulty: Easy(2/10)
+
+### You Will Learn
+
+- JavaScript DOM এর কিছু Basic Concepts.
+
+### Project Description
+
+এটি Project এ "Next Quote" button এ ক্লিক করলে একটি Fetch API থেকে একটি Random Quote Generate হবে এবং "Copy Quote" button এ ক্লিক করলে যে Quote টি প্রদর্শিত অবস্থায় আছে সেটি Copy to Clipboard হয়ে যাবে।
+
+### Project Requirements
+
+- "Next Quote" নামে একটি button থাকবে, এটিতে ক্লিক করলে একটি Random Quote Display হবে।
+- "Copy Quote" নামে একটি button থাকবে, এটিতে ক্লিক করলে Quote টি Copy হয়ে যাবে।
+
+### Project Screenshot
+
+_Click the image to view Live Project_
+
+[![Random Quote Generator](./07-random-quote-generator/images/quote.png)](https://random-quote-generator.travelerabdulalim.repl.co/)
+
+### Live Project Link
+
+[Live Project Link](https://random-quote-generator.travelerabdulalim.repl.co/)
+
+### Video Explanation
+
+Coming Soon...
+
+### Project Source Codes
+
+[Project Source Codes](./07-random-quote-generator/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
