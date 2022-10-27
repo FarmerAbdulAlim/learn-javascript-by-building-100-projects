@@ -88,7 +88,7 @@ Coming Soon...
 
 [Project Source Codes](./01-digital-clock/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 02. Changing Background Color
 
@@ -124,7 +124,7 @@ Coming Soon...
 
 [Project Source Codes](./02-changing-background-color/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 03. Changing Background Color with Copy Color
 
@@ -163,7 +163,7 @@ Coming Soon...
 
 [Project Source Codes](./03-changing-bg-color-with-copy-color/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 04. Changing Background Color and Copy That Color With Some Extra Requirements
 
@@ -209,7 +209,7 @@ Coming Soon...
 
 [Project Source Codes](./04-changing-bg-color-and-copy-it-and-input-color/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 05. Neumorphism Custom Range Slider
 
@@ -245,7 +245,7 @@ Coming Soon...
 
 [Project Source Codes](./05-neumorphism-custom-range-slider/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 06. Color Picker Application Version-01
 
@@ -282,7 +282,7 @@ Coming Soon...
 
 [Project Source Codes](./06-color-picker-application-v-01/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 07. Random Quote Generator
 
@@ -319,7 +319,7 @@ Coming Soon...
 
 [Project Source Codes](./07-random-quote-generator/)
 
-[<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go To Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
 
 # 08. Video Slider
 
