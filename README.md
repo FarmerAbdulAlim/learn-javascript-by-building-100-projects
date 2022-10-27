@@ -320,3 +320,39 @@ Coming Soon...
 [Project Source Codes](./07-random-quote-generator/)
 
 [<h3 align="center">Go to Top</h3>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+
+# 08. Video Slider
+
+### Difficulty: Easy(2/10)
+
+### You Will Learn
+
+- JavaScript DOM এর কিছু Basic Concepts.
+
+### Project Description
+
+একটি খুব Simple Video Slider Project. এই প্রজেক্টে 5 টি thumbnails থাকবে , প্রত্যেকটিতে ক্লিক করলে এক একটি ভিডিও প্লে হবে।
+
+### Project Requirements
+
+- 5 টি ভিডিও thumbnails থাকবে, যেটাতে ক্লিক করা হবে ঐ Video Play হবে।
+
+### Project Screenshot
+
+_Click the image to view Live Project_
+
+[![Video Slider](./08-video-slider/assests/images/screenshot.png)](https://video-slider.travelerabdulalim.repl.co/)
+
+### Live Project Link
+
+[Live Project Link](https://video-slider.travelerabdulalim.repl.co/)
+
+### Video Explanation
+
+Coming Soon...
+
+### Project Source Codes
+
+[Project Source Codes](./08-video-slider/)
+
+[Go to Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
