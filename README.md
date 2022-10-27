@@ -355,4 +355,4 @@ Coming Soon...
 
 [Project Source Codes](./08-video-slider/)
 
-[<center>Go to Top</center>](#50-javascript-projects-for-beginners-from-easy-to-hard)
+<center>Go to Top</center>
