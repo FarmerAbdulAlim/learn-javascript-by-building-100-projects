@@ -9,7 +9,7 @@
 |                      [05](#05-neumorphism-custom-range-slider)                       |                             [Neumorphism Custom Range Slider](#05-neumorphism-custom-range-slider)                              |     Watch Now     |              [Live Demo](https://custom-range-slider.travelerabdulalim.repl.co/)              |
 |                    [06](#06-color-picker-application-version-01)                     |                         [Color Picker Application Version-01](#06-color-picker-application-version-01)                          |     Watch Now     |               [Live Demo](https://color-picker-v-01.travelerabdulalim.repl.co/)               |
 |                           [07](#07-random-quote-generator)                           |                                      [Random Quote Generator](#07-random-quote-generator)                                       |     Watch Now     |            [Live Demo](https://random-quote-generator.travelerabdulalim.repl.co/)             |
-|                                          08                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
+|                                [08](#08-video-slider)                                |                                                [Video Slider](#08-video-slider)                                                 |     Watch Now     |            [Live Demo](https://random-quote-generator.travelerabdulalim.repl.co/)             |
 |                                          09                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          10                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
 |                                          11                                          |                                                                                                                                 |     Watch Now     |                                           Live Demo                                           |
@@ -355,4 +355,4 @@ Coming Soon...
 
 [Project Source Codes](./08-video-slider/)
 
-[Go to Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
+### [Go to Top](#50-javascript-projects-for-beginners-from-easy-to-hard)
